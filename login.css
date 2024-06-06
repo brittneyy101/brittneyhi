@@ -1,0 +1,58 @@
+.zero{
+    position: absolute;
+    height:500px;
+    width:500px;
+    background-color: blueviolet;
+    top:-70px;
+    left:-13px;
+    
+}
+.air{
+    position: absolute;
+    height:400px;
+    width:400px;
+    background-color: orange;
+    left:1000px;
+    top:370px;
+}
+#schooldays{
+   position: absolute;
+   top:210px;
+   background-color: aqua;
+   height:300px;
+   width:500px;
+   left:480px;
+   border-radius: 10px;;
+}
+#smart{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 100px;
+    border:10px;
+    border-radius: 10px;
+}
+#nail{
+    position: absolute;
+    margin-left:160px;
+    margin-top:130px;
+    border:10px;
+    border-radius:10px;
+}
+
+#candle{
+    position: absolute;
+    margin-left:218px;
+    margin-top:140px;
+
+    
+}
+.desk{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:178px;
+    margin-top:-50px;
+}
+
+    
+    
+    

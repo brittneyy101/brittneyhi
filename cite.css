@@ -1,0 +1,132 @@
+.noodles{
+    position: absolute;
+    left:1px;
+    background-color: purple;
+    width:1500px;
+    color:yellow;
+    top:-20px;
+}
+
+.cool{
+    position: absolute;
+    top:10px;
+    left:1100px;
+    border:10px;
+    border-radius: 10px;
+}
+
+.summer{
+    position: absolute;
+    top:10px;
+    left:1180px;
+    border:10px;
+    border-radius: 10px;
+}
+.computer{
+    position: absolute;
+    top:10px;
+    left:480px;
+   
+}
+.Sticks{
+    position: absolute;
+    height:250px;
+    width:600px;
+    left:330px;
+    top:100px;
+    border-radius: 10px;
+}
+.water{
+position: absolute;
+left:200px;
+top:1px;
+color:white;
+}
+.duck{
+    position: absolute;
+    left:280px;
+    top:1px;
+color:white;
+
+}
+.cow{
+    position: absolute;
+    left:380px;
+    top:1px;
+    color: white;
+
+}
+
+.nigt{
+    position: absolute;
+    top:400px;
+}
+.dots{
+    position: absolute;
+    height:50px;
+    width:50px;
+    top:400px;
+    left:600px;
+}
+.blue{
+    position: absolute;
+    height:200px;
+    Width:250px;
+    top:520px;
+    left:10px;
+    border-radius: 10px;
+}
+.gold{
+    position: absolute;
+    height:200px;
+    Width:250px;
+    top:520px;
+    left:990px;
+    border-radius: 10px;
+
+}
+.purple{
+    position: absolute;
+    height:200px;
+    Width:250px;
+    top:520px;
+    left:650px;
+    border-radius: 10px;
+}
+.pink{
+    position: absolute;
+    height:200px;
+    Width:250px;
+    top:520px;
+    left:330px;
+    border-radius: 10px;
+}
+.glider{
+    position: absolute;
+    top:800px;
+}
+.nicole{
+    position: absolute;
+    height:200px;
+    width:250px;
+    top:920px;
+    left:625px;
+    border-radius:10px;
+}
+.add{
+    position: absolute;
+    height:200px;
+    width:250px;
+    top:920px;
+    left:950px;
+    border-radius:10px;
+}
+
+.min{
+    position: absolute;
+    height:200px;
+    width:550px;
+    top:920px;
+    border-radius: 10px;
+   
+}
